@@ -1,0 +1,23 @@
+{
+  "name": "protoo-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huynhnt6995/node-protoo-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huynhnt6995/node-protoo-demo/issues"
+  },
+  "homepage": "https://github.com/huynhnt6995/node-protoo-demo#readme",
+  "dependencies": {
+    "protoo-client": "^4.0.6",
+    "protoo-server": "^4.0.6"
+  }
+}
